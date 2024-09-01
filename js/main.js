@@ -1537,7 +1537,7 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 
     const scriptUrls = [
-      { url: "//sdk.51.la/js-sdk-pro.min.js", charset: "UTF-8", crossorigin: false, id: "LA_COLLECT" },
+      { url: "https://sdk.51.la/js-sdk-pro.min.js", charset: "UTF-8", crossorigin: false, id: "LA_COLLECT" },
       { url: "https://sdk.51.la/perf/js-sdk-perf.min.js", crossorigin: "anonymous" },
     ];
 

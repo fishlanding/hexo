@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /fancybox/
+
+Sitemap: https://yuwan886.top/sitemap.xml

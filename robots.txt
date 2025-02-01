@@ -11,4 +11,4 @@ Disallow: /fonts/
 Disallow: /images/
 Disallow: /fancybox/
 
-Sitemap: https://yuwan886.top/sitemap.xml
+Sitemap: https://www.yuwan886.top/sitemap.xml
